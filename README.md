@@ -8,3 +8,26 @@ Information about venues to publish, core conference ranking, finding CFP, etc.
 
 [ORCID](https://orcid.org/signin) - aggregate your contributions with single ORC ID.   
 
+
+[Journal Indexing]() 
+[DBLP](https://dblp.org/) open indexing for CS publications   
+[SCI]() - Science Citation Index   
+[SCIe]() - Science Citation Index Expanded   
+[Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex) from Elsevier    
+[Scopus](https://scopusindexedjournals.com/)       
+Google Scholar    
+Web of Science   
+
+[Scimago Journal Ranking](https://www.scimagojr.com/)   
+Look for journals in top quartile Q1 or Q2:   
+Q1 (green) comprises the quarter of the journals with the highest values,   
+Q2 (yellow) the second highest values,    
+Q3 (orange) the third highest values and    
+Q4 (red) the lowest values.
+
+
+<!--
+Note:-   
+1. Open Access - is a model in which article publishing charges (APC) are paid by the authors and publication is open for all online. There are Gold/Silver/Bronze options for wider reach of audience having access to such publications. Many publications are turning into Open Access due to reduced memberships.    
+2. Sponsored / Paid Access -  as name suggests its pay and publish model. Early researchers should avoid it.    
+-->
