@@ -25,7 +25,7 @@ Q2 (yellow) the second highest values,
 Q3 (orange) the third highest values and    
 Q4 (red) the lowest values.
 
-e.g. [Computers and Security (CompSec)](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0) is contuniously green (Q1) in the past 10 years. So, is [IEEE Communications Surveys and Tutorials](https://www.scimagojr.com/journalsearch.php?q=17900156715&tip=sid&clean=0).   
+e.g. [Computers and Security (CompSec)](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0) is continuously green (Q1) in the past 10 years. So, is [IEEE Communications Surveys and Tutorials](https://www.scimagojr.com/journalsearch.php?q=17900156715&tip=sid&clean=0).   
 
 
 Note:-   
