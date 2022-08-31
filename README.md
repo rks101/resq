@@ -27,8 +27,9 @@ Q4 (red) the lowest values.
 
 e.g. [Computers and Security (CompSec)](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0) is contuniously green (Q1) in the past 10 years. So, is [IEEE Communications Surveys and Tutorials](https://www.scimagojr.com/journalsearch.php?q=17900156715&tip=sid&clean=0).   
 
-<!--
+
 Note:-   
-1. Open Access - is a model in which article publishing charges (APC) are paid by the authors and publication is open for all online. There are Gold/Silver/Bronze options for wider reach of audience having access to such publications. Many publications are turning into Open Access due to reduced memberships.    
+1. Open Access - is a model in which article publishing charges (APC) are paid by the authors and publication is open for all online. There are Gold/Silver/Bronze options for wider reach of audience having access to such publications. Many publications are turning into Open Access due to reduced memberships. You may avoid Open Access to save APC.    
 2. Sponsored / Paid Access -  as name suggests its pay and publish model. Early researchers should avoid it.    
--->
+3. Special/companion edition - look for indexing and reputation.    
+
