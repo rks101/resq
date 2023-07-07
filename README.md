@@ -25,7 +25,7 @@ Q2 (yellow) the second highest values,
 Q3 (orange) the third highest values and    
 Q4 (red) the lowest values.
 
-e.g. [Computers and Security (CompSec)](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0) is continuously green (Q1) in the past 10 years. So, is [IEEE Communications Surveys and Tutorials](https://www.scimagojr.com/journalsearch.php?q=17900156715&tip=sid&clean=0).   
+e.g. [Computers and Security (CompSec)](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0) is continuously green (Q1) in the past 10 years. So, is [IEEE Communications Surveys and Tutorials (COMSUR)](https://www.scimagojr.com/journalsearch.php?q=17900156715&tip=sid&clean=0).   
 
 
 Note:-   
@@ -33,3 +33,4 @@ Note:-
 2. Sponsored / Paid Access -  as name suggests its pay and publish model. Early researchers should avoid it.    
 3. Special/companion edition - look for indexing and reputation.    
 
+It is wise to stay away from country-specific predatory journals or controversial journals.   
