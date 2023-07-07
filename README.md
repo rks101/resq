@@ -37,7 +37,7 @@ It is wise to stay away from country-specific predatory journals or controversia
 
 ----
 
-** Writing Tools   
+## Writing Tools   
 [LaTex](https://github.com/rks101/latex) - on a Linux system install texlive-full to bring the most of LaTex and beamer packages you may need.   
 [Overleaf](overleaf.com) - an online LaTeX editor can help for easy editing online.   
 
