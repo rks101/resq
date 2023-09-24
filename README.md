@@ -11,6 +11,8 @@ My notes on venues to publish, core conference ranking, finding CFP, etc.
 
 [ORCID](https://orcid.org/signin) - aggregate your contributions with a single ORC ID.   
 
+----
+
 ## Journal Indexing   
 Journal indexing can impact search/findings of your publications to others.   
 
@@ -45,6 +47,8 @@ e.g.
 
 Top CS Journals and Transactions may take up to 2 years from manuscript submission to acceptance notification and publishing. Hope this turn around time reduces to half.      
 
+----
+
 ## Conferences   
 
 Top CS conferences can have paper acceptance rate well below 18%, or less than 1 in 6 papers submitted without desk-rejection.     
@@ -64,6 +68,7 @@ e.g.
 
 
 
+---- 
 
 ## Advice    
 
@@ -85,6 +90,27 @@ Note:-
 3. Special/companion edition - look for indexing, availability and reputation.    
 
 It is wise to stay away from country-specific predatory journals or controversial journals or the ones banned by any agency in the country.     
+
+----
+
+## Publishers and Societies    
+
+Elsevier    
+Springer / Springer Nature    
+IEEE     
+ACM     
+SIG - Special Interest Groups with ACM     
+Nature    
+Wiley    
+SAGE    
+
+Note: 
+1. ScienceDirect is a platform/tool of Elsevier, a publishing company.    
+2. arXiv is not a publisher, it is a great repository to claim or make your work available online without an accepted publication yet. Check with the publisher if they want you to remove the paper from arXiv due to embargo period.
+3. Subscription-based versus Open Access (OA) model: One main difference is the publication dissemination cost. Under the subscription-based agreement the publishing company (Elsevier/ACM/IEEE) abosrbs the costs, and the end users/researchers have to pay through institutional contract or by self per paper. Under Open Access model, the author pays article publishing charges (APC) for the access to publication instead of the end users/researchers.    
+
+[Academic Publishers Statistics](https://wordsrated.com/academic-publishers-statistics/)    
+
 
 ----
 
