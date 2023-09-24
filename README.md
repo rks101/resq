@@ -44,6 +44,7 @@ e.g.
 [ACM Transactions on Internet Technology](https://www.scimagojr.com/journalsearch.php?q=15773&tip=sid&clean=0)     
 [IEEE Transactions on Cloud Computing](https://www.scimagojr.com/journalsearch.php?q=21100338351&tip=sid&clean=0)      
 [IEEE Transactions on Services Computing](https://www.scimagojr.com/journalsearch.php?q=18300156728&tip=sid&clean=0)     
+[Transactions in Software Enginering]() (TSE)    
 
 Top CS Journals and Transactions may take up to 2 years from manuscript submission to acceptance notification and publishing. Hope this turn around time reduces to half.      
 
@@ -65,8 +66,21 @@ Reason for a desk-rejection can be:
 In Computer Science and related areas, conferences are rated higher and preffered because of rigourous peer reviews with quick feedback, usually notifying within 3-4 months.     
 
 e.g.    
-
-
+- CCS - ACM Conference on Computer and Communications Security 
+- ESORICS - European Symposium on Research in Computer Security  
+- ICSE - [International Conference on Software Engineering](http://www.icse-conferences.org/)   
+- ICIS - International Conference on Information Systems
+- IFIP WG 11 - IFIP WG 11.3 Working Conference on Data and Applications Security (was IFIP-DBSEC)
+- S&P - 	IEEE Symposium on Security and Privacy
+- USENIX-Sec - Usenix Security
+- ARES - International Conference on Availability, Reliability and Security
+- PETs - Privacy Enhancing Technologies (with PoPET)
+- FSE - ACM Conference on the Foundations of Software Engineering
+- FST & TCS - Foundations of Software Technology & Theoretical Computer Science
+- ICSP - International Conference on Software Process
+- ISSTA - Internation Symposium on Software Testing and Analysis
+- SPICE - Software Process Improvement and Capability Determination
+- SSR - ACM Symposium on Software Reusability
 
 ---- 
 
