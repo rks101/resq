@@ -81,7 +81,9 @@ e.g.
 - ISSTA - Internation Symposium on Software Testing and Analysis
 - SPICE - Software Process Improvement and Capability Determination
 - SSR - ACM Symposium on Software Reusability
-- COMPSAC 	International Computer Software and Applications Conference
+- COMPSAC - International Computer Software and Applications Conference
+- PASTE - ACM SIGSOFT Workshop on Program Analysis for Software Tools and Engineering
+- STEP - Software Technology and Engineering Practice Conference
 
 ---- 
 
