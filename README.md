@@ -55,7 +55,7 @@ Reason for a desk-rejection can be:
 - no relevance to the venue or conference,     
 - conference no longer accepting papers from a specific area,     
 - plagiarism (more than 18-20% similarity detected),    
-- too obvious Engligh/language issues, etc.     
+- too obvious Engligh/languase issues, etc. (Hope you noticed!)      
 
 
 In Computer Science and related areas, conferences are rated higher and preffered because of rigourous peer reviews with quick feedback, usually notifying within 3-4 months.     
