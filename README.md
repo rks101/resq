@@ -43,7 +43,7 @@ e.g.
 [IEEE Transactions on Cloud Computing](https://www.scimagojr.com/journalsearch.php?q=21100338351&tip=sid&clean=0)      
 [IEEE Transactions on Services Computing](https://www.scimagojr.com/journalsearch.php?q=18300156728&tip=sid&clean=0)     
 
-Top CS Journals and Transactions may take up to 2 years from manuscript submission to acceptance notification and publishing. Hope this turn around time reduces to half :)     
+Top CS Journals and Transactions may take up to 2 years from manuscript submission to acceptance notification and publishing. Hope this turn around time reduces to half.      
 
 ## Conferences   
 
