@@ -45,15 +45,28 @@ e.g.
 
 Top CS Journals and Transactions may take up to 2 years from manuscript submission to acceptance notification and publishing. Hope this turn around time reduces to half :)     
 
-In Computer Science, conferences are rated higher and preffered because of rigourous peer reviews and quick feedback.     
-Top CS conferences may have paper acceptance rate well below 18%     
+## Conferences   
 
-e.g. 
+Top CS conferences can have paper acceptance rate well below 18%, or less than 1 in 6 papers submitted without desk-rejection.     
+
+Reason for a desk-rejection can be:     
+- length (too short or longer than mentioned in CFP)),    
+- formatting of paper not as mentioned in CFP (single or 2-column, figures, tables, references, LNCS/IEEE/ACM style not adhered to),    
+- no relevance to the venue or conference,     
+- conference no longer accepting papers from a specific area,     
+- plagiarism (more than 18-20% similarity detected),    
+- too obvious Engligh/language issues, etc.     
+
+
+In Computer Science and related areas, conferences are rated higher and preffered because of rigourous peer reviews with quick feedback, usually notifying within 3-4 months.     
+
+e.g.    
 
 
 
 
-Advice:    
+## Advice    
+
 1. Target/publish in the journals or conferences in the top quartile Q1 or Q2: so that your work is reviewed by peers rigourously and reflects better credibility.    
 2. Do not go after citation numbers (they can be synthetic) or numerical impact factor only (can be deceptive), to just publish your work.    
 3. Inquire about the venue, quality of reviews, free/paid model, before you submit to publish your work. Be open to get rejections with good reviews from a good venue.    
