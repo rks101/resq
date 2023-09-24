@@ -33,9 +33,15 @@ e.g.
 [ACM Computing Surveys (CSUR)](https://www.scimagojr.com/journalsearch.php?q=23038&tip=sid&clean=0) is continuously green (Q1) during 2000-2022     
 [Computers and Security (CompSec)](https://www.scimagojr.com/journalsearch.php?q=28898&tip=sid&clean=0) is continuously green (Q1) during 2011-2022.    
 [IEEE Communications Surveys and Tutorials (COMSUR)](https://www.scimagojr.com/journalsearch.php?q=17900156715&tip=sid&clean=0) is green (Q1) during 2006-2022.    
-[IEEE Transactions on Dependable and Secure Computing](https://www.scimagojr.com/journalsearch.php?q=28918&tip=sid&clean=0)     
-[ACM Transactions on Privacy and Security](https://www.scimagojr.com/journalsearch.php?q=21100832567&tip=sid&clean=0)     
-[ACM Transactions on Computational Logic](https://www.scimagojr.com/journalsearch.php?q=23051&tip=sid&clean=0)    
+[IEEE/ACM Transactions on Networking](https://www.scimagojr.com/journalsearch.php?q=27237&tip=sid&clean=0) (ToN) is continuously green (Q1) during 1999-2022.       
+[IEEE Transactions on Dependable and Secure Computing](https://www.scimagojr.com/journalsearch.php?q=28918&tip=sid&clean=0) (TDSC)     
+[ACM Transactions on Privacy and Security](https://www.scimagojr.com/journalsearch.php?q=21100832567&tip=sid&clean=0) (ToPS)     
+[ACM Transactions on Computational Logic](https://www.scimagojr.com/journalsearch.php?q=23051&tip=sid&clean=0) (ToCL)     
+[IEEE Transactions on Mobile Computing](https://www.scimagojr.com/journalsearch.php?q=25038&tip=sid&clean=0) is continuously green (Q1) during 2003-2022.      
+[IEEE Transactions on Cognitive Communications and Networking](https://www.scimagojr.com/journalsearch.php?q=21100854831&tip=sid&clean=0)     
+[ACM Transactions on Internet Technology](https://www.scimagojr.com/journalsearch.php?q=15773&tip=sid&clean=0)     
+[IEEE Transactions on Cloud Computing](https://www.scimagojr.com/journalsearch.php?q=21100338351&tip=sid&clean=0)      
+[IEEE Transactions on Services Computing](https://www.scimagojr.com/journalsearch.php?q=18300156728&tip=sid&clean=0)     
 
 <!-- 
 https://www.scopus.com/sources.uri
