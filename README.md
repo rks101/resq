@@ -66,7 +66,7 @@ Reason for a desk-rejection can be:
 In Computer Science and related areas, conferences are rated higher and preffered because of rigourous peer reviews with quick feedback, usually notifying within 3-4 months.     
 
 e.g.    
-- CCS - ACM Conference on Computer and Communications Security 
+- CCS ACM Conference on Computer and Communications Security 
 - ESORICS - European Symposium on Research in Computer Security  
 - ICSE - [International Conference on Software Engineering](http://www.icse-conferences.org/)   
 - ICIS - International Conference on Information Systems
@@ -81,6 +81,7 @@ e.g.
 - ISSTA - Internation Symposium on Software Testing and Analysis
 - SPICE - Software Process Improvement and Capability Determination
 - SSR - ACM Symposium on Software Reusability
+- COMPSAC 	International Computer Software and Applications Conference
 
 ---- 
 
