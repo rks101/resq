@@ -74,7 +74,6 @@ e.g.
 - S&P - 	IEEE Symposium on Security and Privacy
 - USENIX-Sec - Usenix Security
 - ARES - International Conference on Availability, Reliability and Security
-- PETs - Privacy Enhancing Technologies (with PoPET)
 - FSE - ACM Conference on the Foundations of Software Engineering
 - FST & TCS - Foundations of Software Technology & Theoretical Computer Science
 - ICSP - International Conference on Software Process
@@ -84,6 +83,8 @@ e.g.
 - COMPSAC - International Computer Software and Applications Conference
 - PASTE - ACM SIGSOFT Workshop on Program Analysis for Software Tools and Engineering
 - STEP - Software Technology and Engineering Practice Conference
+- MSR - Mining Software Repositories
+- PETs - Privacy Enhancing Technologies (with PoPET)
 
 ---- 
 
