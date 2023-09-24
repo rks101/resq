@@ -43,34 +43,43 @@ e.g.
 [IEEE Transactions on Cloud Computing](https://www.scimagojr.com/journalsearch.php?q=21100338351&tip=sid&clean=0)      
 [IEEE Transactions on Services Computing](https://www.scimagojr.com/journalsearch.php?q=18300156728&tip=sid&clean=0)     
 
-<!-- 
-https://www.scopus.com/sources.uri
-Cybersecurity - https://www.scopus.com/sourceid/21101019779 
--->
+Top CS Journals and Transactions may take up to 2 years from manuscript submission to acceptance notification and publishing. Hope this turn around time reduces to half :)     
+
+In Computer Science, conferences are rated higher and preffered because of rigourous peer reviews and quick feedback.     
+Top CS conferences may have paper acceptance rate well below 18%     
+
+e.g. 
+
+
+
 
 Advice:    
-1. Target/publish in the journals in the top quartile Q1 or Q2: so that your work is reviewed by peers rigourously and reflects better credibility.    
+1. Target/publish in the journals or conferences in the top quartile Q1 or Q2: so that your work is reviewed by peers rigourously and reflects better credibility.    
 2. Do not go after citation numbers (they can be synthetic) or numerical impact factor only (can be deceptive), to just publish your work.    
-3. Inquire about the venue, quality of reviews, free/paid model, before you submit to publish your work. Be brave to get rejections with good reviews from a good venue.    
-4. Avoid Open-Access only or paid journals to publish your work.   
+3. Inquire about the venue, quality of reviews, free/paid model, before you submit to publish your work. Be open to get rejections with good reviews from a good venue.    
+4. Avoid Open-Access only or paid journals to publish your work.    
 5. Regularly/Every year self-review at least 5-6 papers in your area to assess the work been done. Submit reviews without a reminder and within time! or do not accept to review. This helps the research community.    
-6. Share papers with your scholars to assess how rigourously they review papers, it could be English/language aspects as well. Discuss and share what not to do and how not to publish, more than how to publish.    
-7. Pay attention to references while you read/review papers, you might find pearls of wisdom :) (This is subjective.)    
-8. Never submit a work without self-checking plagiarism. Target single digit similarity or less than 12% of similarity (for own contribution) or less than 18% of similarity (for Surveys/SoK). How dirty is to submit verbatim copied/similar paragraph or full-sentences? They could be and should be desk-rejected.      
-9. Never submit a work to publish by adding someone's name in the end or referencing few highly-cited or synthetic citations-laid papers. This does not help the research community.     
+6. Share papers with your scholars to assess how rigourously they review papers, it could be English/language aspects as well. Discuss and share what not to do and how not to publish, it is needed more than how to publish.    
+7. Pay attention to references while you read/review papers, you might find pearls of wisdom :)     
+8. Never submit a work without self-checking plagiarism. Target single digit similarity or less than 12% of similarity (for own contribution) or less than 18% of similarity (for Surveys/SoK). How disrespectful is to submit papers with verbatim copied/similar full-paragraph or full-sentences? They could be and should be desk-rejected.      
+9. Never submit a work to publish by adding someone's name in the end or by referencing few highly-cited or synthetic citations-laid papers. This does not help the research community.     
+10. Write papers on your own from scratch. Avoid generative AI tools for writing papers - they should be desk-rejected by publishers.     
 
 
 Note:-   
-1. Open Access - is a model in which the authors pay article publishing charges (APC), and publication is open for all online. There are Gold/Silver/Bronze options for a wider reach of the audience having access to such publications. Many publications are turning into Open Access due to reduced memberships. You may avoid Open Access to save APC.    
-2. Sponsored / Paid Access -  as the name suggests, its pay and publish model. Early researchers should avoid it.    
-3. Special/companion edition - look for indexing and reputation.    
+1. Open Access - is a model in which the authors pay article publishing charges (APC), and publication is open for all online. There are Gold/Silver/Bronze options for the audience. Many publications are turning into Open Access model due to reduced memberships. You should avoid Open Access only model to save APC.    
+2. Sponsored / Paid Access -  as the name suggests, its pay and publish model. Avoid it.    
+3. Special/companion edition - look for indexing, availability and reputation.    
 
-It is wise to stay away from country-specific predatory journals or controversial journals.   
+It is wise to stay away from country-specific predatory journals or controversial journals or the ones banned by any agency in the country.     
 
 ----
 
 ## Writing Tools   
 [LaTex](https://github.com/rks101/latex) - on a Linux system, install the texlive-full package to bring the most of LaTex and beamer packages you may need.   
 [Overleaf](overleaf.com) - an online LaTeX editor can help for easy editing online.   
+
+## Books on Technical Writing and Style  
+
 
 ---- 
