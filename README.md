@@ -90,7 +90,7 @@ e.g.
 
 ## Advice    
 
-1. Target/publish in the journals or conferences in the top quartile Q1 or Q2: so that your work is reviewed by peers rigourously and reflects better credibility.    
+1. Target/publish in the journals or conferences in the top quartile Q1 or Q2: so that your work is reviewed by peers rigourously and reflects better credibility. Keep a catalogue of review comments received like your photos because someone gave their time, had courage to comment, and helped you on your work to improve it further.     
 2. Do not go after citation numbers (they can be synthetic) or numerical impact factor only (can be deceptive), to just publish your work.    
 3. Inquire about the venue, quality of reviews, free/paid model, before you submit to publish your work. Be open to get rejections with good reviews from a good venue.    
 4. Avoid Open-Access only or paid journals to publish your work.    
