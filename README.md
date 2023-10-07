@@ -97,9 +97,9 @@ e.g.
 5. Regularly/Every year self-review at least 5-6 papers in your area to assess the work been done. Submit reviews without a reminder and within time! or do not accept to review. This helps the research community.    
 6. Share papers with your scholars to assess how rigourously they review papers, it could be English/language aspects as well. Discuss and share what not to do and how not to publish, it is needed more than how to publish.    
 7. Pay attention to references while you read/review papers, you might find pearls of wisdom :)     
-8. Never submit a work without self-checking plagiarism. Target single digit similarity or less than 12% of similarity (for own contribution) or less than 18% of similarity (for Surveys/SoK). How disrespectful is to submit papers with verbatim copied/similar full-paragraph or full-sentences? They could be and should be desk-rejected.      
-9. Never submit a work to publish by adding someone's name in the end or by referencing few highly-cited or synthetic citations-laid papers. This does not help the research community.     
-10. Write papers on your own from scratch. Avoid generative AI tools for writing papers - they should be desk-rejected by publishers.     
+8. Never submit a work without self-checking plagiarism. Target single digit similarity or less than 12% of similarity (for own contribution) or less than 18% of similarity (for Surveys/SoK). How disrespectful it is to submit papers with verbatim copied paragraphs or huge similarity in any paragraph or verbatim copied complete sentence! They should be desk-rejected. To avoid this, write your own work, in your own words, use recall or understanding of concepts in your words. Do not look at some text and rephrase/restructue to defeat plagiarism tools.       
+9. Never submit a work to publish by adding someone's name in the end or by referencing few highly-cited or synthetic citations-laid papers. This does not help the research community. It should be okay to retire with 10-15-20 papers without such mal-practices.       
+10. Write papers on your own from scratch. Before communicating, do a self-review to reject your own work on the technical writing, the coverage and plagiarism. Avoid generative AI tools for writing papers - they should be desk-rejected by publishers.     
 
 
 Note:-   
