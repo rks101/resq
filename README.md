@@ -66,17 +66,18 @@ The reason for a desk rejection can be:
 In Computer Science and related areas, conferences are rated higher and preferred because of rigorous peer reviews with quick feedback, usually notifying within 3-4 months.     
 
 e.g.    
-- CCS ACM Conference on Computer and Communications Security 
+- CCS - ACM Conference on Computer and Communications Security 
 - ESORICS - European Symposium on Research in Computer Security  
 - ICSE - [International Conference on Software Engineering](http://www.icse-conferences.org/)   
 - ICIS - International Conference on Information Systems
 - IFIP WG 11 - IFIP WG 11.3 Working Conference on Data and Applications Security (was IFIP-DBSEC)
-- S&P - 	IEEE Symposium on Security and Privacy
+- S&P - IEEE Symposium on Security and Privacy
 - USENIX-Sec - Usenix Security
 - ARES - International Conference on Availability, Reliability, and Security
 - FSE - ACM Conference on the Foundations of Software Engineering
 - FST & TCS - Foundations of Software Technology & Theoretical Computer Science
-- ICSP - International Conference on Software Process
+- SANER - IEEE International Conference on Software Analysis, Evolution and Reengineering
+- ICSSP - International Conference on Software and System Processes (earlier ICSP)
 - ISSTA - Internation Symposium on Software Testing and Analysis
 - SPICE - Software Process Improvement and Capability Determination
 - SSR - ACM Symposium on Software Reusability
@@ -85,6 +86,8 @@ e.g.
 - STEP - Software Technology and Engineering Practice Conference
 - MSR - Mining Software Repositories
 - PETs - Privacy Enhancing Technologies (with PoPET)
+
+CORE rankings - [ICORE Conference Portal](https://portal.core.edu.au/conf-ranks/)    
 
 ---- 
 
