@@ -102,7 +102,8 @@ CORE rankings - [ICORE Conference Portal](https://portal.core.edu.au/conf-ranks/
 7. Pay attention to references while you read/review papers; you might find pearls of wisdom :)     
 8. Never submit a work without self-checking plagiarism. Target single-digit similarity or less than 12% of similarity (for own contribution) or less than 18% (for Surveys/SoK). How disrespectful it is to submit papers with verbatim copied paragraphs or huge similarities in any paragraph or verbatim copied complete sentences! They should be desk rejected without further review. To avoid this, write your own work, in your own words, use recall or understanding of concepts in your words. Please don't look at some text and rephrase/restructue to defeat plagiarism tools.       
 9. Never submit a work to publish by adding someone's name in the end or by referencing few highly-cited or synthetic citations-laid papers. This does not help the research community. It should be okay to retire with 10-15-20 papers without such malpractice.       
-10. Write papers on your own from scratch. Before communicating, do a self-review to reject your own work on the technical writing, the coverage, and plagiarism. Avoid generative AI tools for writing papers - they should be desk-rejected by publishers.     
+10. Write papers on your own from scratch. Before communicating, do a self-review to reject your own work on the technical writing, the coverage, and plagiarism. Avoid generative AI tools for writing papers - they should be desk-rejected by publishers.   
+11. Pay attention to the author's name displayed irrespective of referencing style so that your contribution is aggregated into a few manageable names. e.g. "Ram Kumar Rao", "Rao, Ram Kumar", "R. K. Rao", "Rao, R. K.", "Ram K. Rao", "Ram Kumar R.", etc. Less is better.   
 
 
 Note:-   
